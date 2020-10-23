@@ -1,1 +1,1 @@
-One of the most commonly used algorithm for implementation of cryptography is RSA algorithm and here is my version of implementing encryption using C language.
+Encryption is a process of converting a plain text into a coded message, technically known as a ciphertext.The main purpose of encryption is to establish a secure communication between the sender and a receiver. One of the most commonly used algorithm for implementation of cryptography is RSA algorithm and here is my version of implementing RSA encryption using C language.
